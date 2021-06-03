@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks, with political observations upon divers authors, who have lately treated upon the coyn of the kingdom.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28886</idno><idno type="EEBO-CITATION">99885542</idno>
+  <idno type="VID">185353</idno>
+  <idno type="EEBO-PROQUEST">2240885258</idno>
+  
+            <idno type="STC">Wing R953</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[30]</idno>
+            <idno type="STC">ESTC R224603</idno>
+            <idno type="PROQUEST">ocm99885542</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885542e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28886)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185353)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks, with political observations upon divers authors, who have lately treated upon the coyn of the kingdom.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Whitlock, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coinage --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185353:1"/>
+            <pb facs="tcp:185353:1"/>
+            <head>REMARKS, WITH Political Observations upon divers Authors, who have lately Treated upon the Coyn of the Kingdom.</head>
+            <p>WHereas divers Ingenious Gentlemen and others have of late sent into the World, by way of the Press, their sentiments and present thoughts, as to Regulating the Coin of <hi>Great Britain's</hi> Empory.</p>
+            <p n="1">1. It's Proposed that every Mill'd Crown Pieces shall pass for six Shillings and 3d. and so in Proportion all Half-crowns, Shillings, six pences, <hi>&amp;c.</hi> And that <hi>Sterling</hi> should be at 6s. and 5d. half penny <hi>per</hi> Ounce.</p>
+            <p>To which it may be answered, There will be a fraction in Payments of Mony; 6 d 4d. 3d. 2d, and 1d▪ for they should be advanced in proportion to the rest, other<g ref="char:EOLhyphen"/>wise they will be melted down.</p>
+            <p>This worthy Author Proposeth farther, That the Standard of our Silver should be 6 s. 5 d. half p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nny <hi>per</hi> Ounce for all that brings Silver to be Coined; by which it appears there will be 2 d. half penny <hi>per</hi> Ounce for Coynage, which will give all the greater and lesser Banks opportunity to ingross and monopolize all silver into their own hands, which is the readiest way to raise the price to 10<hi>s. per</hi> Ounce; then where will be the Crown Piece at 6 s. 3 d. it being the opinion of this Au<g ref="char:EOLhyphen"/>thor: But it is supposed the Standard will rise, and not fall, for what hath been most usually done in past Ages, may be Practised again, as doth appear by tak<g ref="char:EOLhyphen"/>ing a view of former Acts relating to our Coines from the first year of King <hi>Edward</hi> the first, to this present year under the Reign of our most gratious King <hi>William.</hi>
+            </p>
+            <p>In the first year of <hi>Edward</hi> the first, one Pound weight of Silver, being 12 Ounces <hi>Troy,</hi> did go for in Mony here in <hi>England,</hi> 4 l. 3 d▪</p>
+            <p>Which after that rate for an Ounce is Twenty Pence farthing; and after that it rose in the several Kings Reigns, as followeth, <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d</cell>
+                  </row>
+                  <row>
+                     <cell>In the time of <hi>Edward</hi> the Third</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In the Eighteenth year of his Reign</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>In the Nineteenth year of his Reign</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>In the Twenty Seventh year of his Reign</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard</hi> the Second, in the Eighteenth year of his Reign</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry</hi> the 4th, it continued in Value</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry</hi> the 5th, in the 9th year of his Reign</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry</hi> the 6th, in the 49th year of his Reign</cell>
+                     <cell>1</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward</hi> the 4th, it continued in value</cell>
+                     <cell>1</cell>
+                     <cell>17</cell>
+                     <cell>66</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry</hi> the 7th, it continued</cell>
+                     <cell>1</cell>
+                     <cell>17</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry</hi> the 8th, in the 1st year of his Reign</cell>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward</hi> the 6th, in the first year of his Reign</cell>
+                     <cell>2</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>In the 6th year of his Reign</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Elizabeth,</hi> in the 43d year of Her Reign</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James</hi> the 1st. and ever since continues</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And at this values it is now in his Majesties Mint, which is 5 <hi>s.</hi> 2 d. <hi>per</hi> Ounce▪ And is now worth, in <hi>Bullion</hi> 6 s. 5 d. <hi>per</hi> Ounce: And it's Evident by what is above that whenever the Price of Silver was raised in <hi>England</hi> in Proportion to ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Neighbouring Nations it never abated afterwards; and we may and have ground to believe that some of out <hi>East India</hi> Trade, and other Trades, make it their bu<g ref="char:EOLhyphen"/>siness and daily Practice to buy up <hi>Bullion,</hi> and yearly send it out in Ingots; so that it will still rise, and not fall. Since the Restoration of King <hi>Charles</hi> II. to this time there hath been Coined in the <hi>Mint</hi> in Mill'd Money, many Millions, the Sum too great to be exactly Named; and it is humbly conceived, if this Mill'd Mony
+<pb facs="tcp:185353:2"/>were in the Kingdom, it would be either be at Interest or in Trade; and then it would be visible, and received in Payments; but instead thereof there is not, for the most part in common Payments, one Pound Received in an Hundred Pounds, which is not above an hundred part of the said Mill'd Monies; whereby it doth appear that the rest is melted down, or carried out of the Kingdom, as afore<g ref="char:EOLhyphen"/>said, to the great prejudice, and greater Impoverishment of the Kingdom, and so will continue, if not remedied; From hence it doth appear that the Standard hath always been raised, and not lower'd, except when the <hi>East India</hi> Company had ingrossed it, and sent great quantities to the <hi>Indies;</hi> and then it did rise not a<g ref="char:EOLhyphen"/>bove a penny or two pence <hi>per</hi> ounce, which signified but little to what it hath, and is like to Rise. Now Mony being the common Standard of the World, as to Commerce and Community; if <hi>England</hi> have most Mony, Goods or monies worth, it will be most substantial and wealthy, and that it may be so, it ought to furnish it sell from it self, with as many needs of Life as may be by Manu<g ref="char:EOLhyphen"/>factures, and all Husbandries whatsoever, that it can make or bear, and want as few as we can, and less Monies will serve us, and we shall have store of Monies continually: If the <hi>East-Indoa</hi> Company were more General and National, then would be sent out more Goods Manufactured, and less Gold and Silver; all Na<g ref="char:EOLhyphen"/>tions would then, by way of Returns, send their Gold and Silver here, ours being the best Market; and this would in due time, give us the Possession of the true Ballance of Trade, both as to <hi>Bullion</hi> and <hi>Manufactures.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Others have Proposed, That the Mill'd Crown, and Half Crown may pass at the price of <hi>Sterling,</hi> and that New Monies be Coined 19 Penny Weight, and go at the Price of one Ounce of Silver Sterling.</p>
+            <p>This is not consistent with Reason, for then we may be served by the Banks and others, as we are served by the Bakers, to raise it and fall it at every shower of Rain that may happen, as they please.</p>
+            <p>
+               <hi>Thirdly,</hi> It's Proposed by another, that Silver should be Sold for but 5<hi>s. per</hi> Ounce, which is less than it hath been Sold for these many years, at home, and in foraign parts; in so doing we shall have all our Silver and Mony Spirited out of the Kingdom to a better Marker.</p>
+            <p>In all Humility, there might be divers ways Proposed to settle the Coin for a Publick Good to all, if the Honourable House of Commons would pass a Vote to Order a <hi>Leger</hi> or <hi>Register</hi> to be kept in a proper place near the House of Com<g ref="char:EOLhyphen"/>mons, by a <hi>Clerk</hi> or <hi>Clerks</hi> Attending a Committee appointed for the purpose, where any of his Majesties Subjects or Strangers, may▪ after the Honourable House, and Lords or the Treasury, Exchequer and Mint, Proposing ways for Regulating the Coin; and for Erecting New Funds for raising the King Money, have liberty to inspect the Books; and if he finds nothing there as to what he intends to Propose, he may then enter it, and he be deemed the first Proposer or Peojector, and have liberty to attend the Committee with his Proposal in Writing, and if Approved of by the Committee, and it pass into an Act or Acts, either in part, or the whole, that Session of Parliament, or any time after, he or they to have a Gratuity, or Place, or Sallery in the said Fund, as he is most capable of.</p>
+            <p>These Arts and Manufactures being Incouraged and added to what we have al<g ref="char:EOLhyphen"/>ready, may Advance <hi>Englands</hi> Interest sufficiently, and make it Rich, Strong and Populous, and Cause an increase of Marriners and able Sea-men to a miracle.</p>
+            <p n="1">1. <hi>The Linen Trade, will imploy thousands of People, Men, Women and Children in Dressing, Planting of Hemp and Flax, and in spinning all sorts of Yarn for making Fish<g ref="char:EOLhyphen"/>ing Nets, Sail Cloth, Canvass, Twine and Line.</hi>
+            </p>
+            <p n="2">2. <hi>Advancing che Paper Trade.</hi>
+            </p>
+            <p n="3">3. <hi>The Royal Fishery.</hi>
+            </p>
+            <p n="4">4. <hi>Will advance the Salt Trade.</hi>
+            </p>
+            <p n="5">5. <hi>Introducing the Tin or Lattin Trade, in tinning ever Iron Plat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</hi>
+            </p>
+            <p n="6">6. <hi>The Sider Trade.</hi>
+            </p>
+            <p n="7">7. <hi>Incouraging excellent Wines from Goos<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ries, Currants, &amp;c</hi>
+            </p>
+            <p n="8">8. <hi>Enclosing of Forrests, and improving to best Advantage.</hi>
+            </p>
+            <p n="9">9. <hi>A more general Discovery, and improvement of Mines.</hi>
+            </p>
+            <p>
+               <hi>Planting of Maddes, Saflower and Woold, and will add to our Tillage.</hi>
+            </p>
+            <p>
+               <hi>These aforesaid Trades will beget a new Stock of People, and being imployed, will not only maintain themselves, but add an imploy to all the old Profession, which will be Planting a new Nation in the midst of us, and in due time give us the true Ballance of Gold, Silver, and Trade in general.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Whitlock,</hi> near <hi>Stationers-Hall.</hi> 1695.</p>
+            <pb facs="tcp:185353:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
